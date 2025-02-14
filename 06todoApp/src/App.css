@@ -1,0 +1,17 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.listContainer{
+  margin:2rem 6rem;
+}
+
+.spacer{
+  margin: auto
+}
+
+.listItemContainer{
+  display: flex;
+  margin-bottom: 1rem;
+  /* align-items: center; */
+}
