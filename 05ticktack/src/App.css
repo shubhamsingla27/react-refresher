@@ -1,0 +1,19 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.grid{
+  max-width: fit-content;
+  margin: 5rem auto;
+}
+
+.row{
+  display: flex;
+  gap: 1rem;
+}
+
+.col{
+  font-size: 24px;
+  cursor: pointer;
+  user-select:none
+}
